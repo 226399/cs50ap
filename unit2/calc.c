@@ -49,5 +49,5 @@ int main(int argc, string argv[])
     }
     
     //print result
-    printf("Result: %.6f\n", result);
+    printf("%.6f\n", result);
 }
